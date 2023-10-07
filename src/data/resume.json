@@ -1,7 +1,7 @@
 {
     "educations": [
         {
-            "school_name": "University of British Columbia",
+            "school": "University of British Columbia",
             "degree": "Bachelor of Science",
             "major": "Computer Science",
             "date": "09/2017 - 05/2022",
@@ -52,7 +52,8 @@
     ],
     "projects": [
         {
-            "project_name": "Bon Appetite",
+            "project": "Bon Appetite",
+            "link": "https://github.com/umutpo/InfiniteRunner",
             "key_events": [
                 "Led a scrum team of 4 programmers and 2 artists to develop an endless runner game with a unique cooking theme",
                 "Administered the task management aspect along with milestone planning using scrum boards and regular standups",
@@ -61,7 +62,8 @@
             ]
         },
         {
-            "project_name": "Little Compiler",
+            "project": "Little Compiler",
+            "link": "https://github.com/umutpo/little-compiler",
             "key_events": [
                 "Developed an optimizing ahead-of-time compiler from a high-level language with functional and imperative features to x86-64 with two other team members",
                 "Implemented various compiler passes to add language features such as control flows, immediate and structured data types, and first-class procedures by using Racket’s pattern matching and introducing custom data structures",
@@ -69,50 +71,12 @@
             ]
         },
         {
-            "project_name": "DNS Lookup Service",
+            "project": "DNS Lookup Service",
+            "link": "https://github.com/umutpo/dns-lookup-service",
             "key_events": [
                 "Developed a DNS lookup service by following the RFC1305 and RFC8499 protocols",
                 "Implemented the service to accommodate both recursive and iterative requests along with DNS caching"
             ]
         }
-    ],
-    "skills": [
-        "C",
-        "C++",
-        "Java",
-        "Python",
-        "C#",
-        "Go",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "SQL",
-        "Racket",
-        "Lisp",
-        "PHP",
-        "React",
-        "Redux",
-        "Node.js",
-        "Express.js",
-        "Material UI",
-        "JUnit",
-        "Spring",
-        "Spring Boot",
-        ".NET Core",
-        "Git",
-        "Perforce",
-        "Docker",
-        "GCP",
-        "MongoDB",
-        "Jira",
-        "Azure",
-        "AWS",
-        "MySQL",
-        "cURL",
-        "ANTLR",
-        "NASM",
-        "Ajax",
-        "Jenkins"
     ]
 }

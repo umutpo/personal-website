@@ -1,4 +1,4 @@
-.experience-item {
+.education-item {
     margin-bottom: 20px;
     border: 1px solid #ddd;
     padding: 20px;
@@ -6,25 +6,30 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.experience-company {
+.education-school {
     font-size: 18px;
     font-style: italic;
     color: #555;
     margin-bottom: 5px;
 }
 
-.experience-title {
+.education-degree {
     font-size: 24px;
     margin-bottom: 5px;
 }
 
-.experience-date {
+.education-major {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.education-date {
     font-size: 16px;
     color: #888;
     margin-bottom: 10px;
 }
 
-.experience-description {
+.education-gpa {
     font-size: 16px;
     line-height: 1.5;
 }

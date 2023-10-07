@@ -1,4 +1,4 @@
-.experience-item {
+.project-item {
     margin-bottom: 20px;
     border: 1px solid #ddd;
     padding: 20px;
@@ -6,25 +6,21 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.experience-company {
+.project-name {
     font-size: 18px;
     font-style: italic;
     color: #555;
     margin-bottom: 5px;
 }
 
-.experience-title {
-    font-size: 24px;
+.project-link {
+    font-size: 16px;
+    font-style: italic;
+    color: #555;
     margin-bottom: 5px;
 }
 
-.experience-date {
-    font-size: 16px;
-    color: #888;
-    margin-bottom: 10px;
-}
-
-.experience-description {
+.project-event {
     font-size: 16px;
     line-height: 1.5;
 }

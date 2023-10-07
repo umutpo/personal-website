@@ -1,0 +1,30 @@
+.experience-item {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .experience-title {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .experience-company {
+    font-size: 18px;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  .experience-date {
+    font-size: 16px;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  
+  .experience-description {
+    font-size: 16px;
+    line-height: 1.5;
+  }

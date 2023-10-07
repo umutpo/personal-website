@@ -1,0 +1,118 @@
+{
+    "educations": [
+        {
+            "school_name": "University of British Columbia",
+            "degree": "Bachelor of Science",
+            "major": "Computer Science",
+            "date": "09/2017 - 05/2022",
+            "gpa": "3.8"
+        }
+    ],
+    "experiences": [
+        {
+            "company": "Blackbird Interactive",
+            "positions": [
+                {
+                    "title": "Associate Software Engineer",
+                    "date": "06/2022 - Present",
+                    "key_events": [
+                        "Helped develop React Facet npm package with a team of UI programmers to optimize the internal reconciliation algorithm by altering React’s rendering strategy in order to replace the standard state management",
+                        "Refactored more than 90% of UI components to use React Facet rather than the standard React states which optimized the average time to update and re-render components from ∼360ms to ∼25ms during each tick","Resolved various memory management and invalid reference bugs in C++ codebase by utilizing smart pointers",
+                        "Built the in-game marketplace’s back-end features such as item purchase and entitlement redemption by utilizing Azure PlayFab and platform-specific native APIs, to handle over 50,000 daily transactions",
+                        "Implementing and maintaining various UI features on Bedrock Engine while collaborating with UI/UX designers"
+                    ]
+                },
+                {
+                    "title": "Software Engineer Co-op",
+                    "date": "09/2020 - 09/2021",
+                    "key_events": [
+                        "Implemented over 15 complex UI components and their back-end APIs while coordinating with UI/UX designers",
+                        "Delivered over 30 application crash bugs by collaborating with Coherent Gameface to resolve the demanding issues encountered on middleware integration to allow for a smoother UI development by using React on Bedrock Engine",
+                        "Built a debug mode into the front-end, making it easier to detect segmentation faults and uncaught JS exceptions",
+                        "Migrated complex JavaScript front-end functions to C++ back-end codebase to optimize runtime performance"
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "East Side Games",
+            "positions": [
+                {
+                    "title": "Software Engineer Co-op",
+                    "date": "05/2019 - 01/2020",
+                    "key_events": [
+                        "Addressed production bugs and features such as creating a REST API for leaderboard system, solving critical monetization issues on backend servers, and integrating third-party services for advertising and A/B testing",
+                        "Executed a large scale C# script refactor which reduced a total of ∼3000 lines of code to ∼800 lines of code by applying SOLID principles and utilizing C# Generics for a more concise, less error-prone codebase",
+                        "Implemented the backend for a new daily login reward feature using Docker with AWS ECS and Secrets Manager",
+                        "Participated in coders’ meetings by giving a series of presentations on the Unity’s ECS and Job System"
+                    ]
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "project_name": "Bon Appetite",
+            "key_events": [
+                "Led a scrum team of 4 programmers and 2 artists to develop an endless runner game with a unique cooking theme",
+                "Administered the task management aspect along with milestone planning using scrum boards and regular standups",
+                "Designed the code architecture and implemented various design patterns such as object pooling and type-object in C# to optimize the game performance, reduce the code bloat, and make the project less error prone",
+                "Managed the official publishing on Google Play Store and App Store for the game’s release life cycle"
+            ]
+        },
+        {
+            "project_name": "Little Compiler",
+            "key_events": [
+                "Developed an optimizing ahead-of-time compiler from a high-level language with functional and imperative features to x86-64 with two other team members",
+                "Implemented various compiler passes to add language features such as control flows, immediate and structured data types, and first-class procedures by using Racket’s pattern matching and introducing custom data structures",
+                "Optimized the compile & run time by implementing features such as live-variable analysis and register allocation"
+            ]
+        },
+        {
+            "project_name": "DNS Lookup Service",
+            "key_events": [
+                "Developed a DNS lookup service by following the RFC1305 and RFC8499 protocols",
+                "Implemented the service to accommodate both recursive and iterative requests along with DNS caching"
+            ]
+        }
+    ],
+    "skills": [
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "C#",
+        "Go",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Racket",
+        "Lisp",
+        "PHP",
+        "React",
+        "Redux",
+        "Node.js",
+        "Express.js",
+        "Material UI",
+        "JUnit",
+        "Spring",
+        "Spring Boot",
+        ".NET Core",
+        "Git",
+        "Perforce",
+        "Docker",
+        "GCP",
+        "MongoDB",
+        "Jira",
+        "Azure",
+        "AWS",
+        "MySQL",
+        "cURL",
+        "ANTLR",
+        "NASM",
+        "Ajax",
+        "Jenkins"
+    ]
+}
